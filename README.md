@@ -2,7 +2,6 @@
 
 ```
 curl https://api.rijo.io/vax?birthdate=1978-11-24
-
 ```
 
 ```
